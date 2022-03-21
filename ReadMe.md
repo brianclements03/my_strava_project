@@ -25,3 +25,4 @@
 - geopy: library for working with geospatial data
 - https://nexporter.bullrox.net/ (a website that helps download Nike Run Club gpx files)
 ## Other notes
+- NRC is in miles and minutes; Strava in km and seconds. However, GPX files report meters and seconds

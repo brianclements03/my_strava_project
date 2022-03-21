@@ -7,3 +7,5 @@ __pycache__/
 *.csv
 *.png
 *.html
+*.gpx
+My_strava_records/
