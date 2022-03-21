@@ -20,4 +20,8 @@
 
 ## Next Steps
 
+## Tools used
+- gpxpy: a gpx parser library
+- geopy: library for working with geospatial data
+
 ## Other notes
