@@ -8,6 +8,8 @@
 ## The Plan
 - Download and learn about the gpx files that were created for every activity
 - Explore the data; compare and contrast the NRC and Strava data
+    - Include an exploration of the ways that the gpx files are recorded.  Lag(aka step) from one record to the next (in a single file)?
+        - Working hypothesis: Strava's irregular recording of coordinates is givinig rise to larger rounding errors.  NRC, conversely, is has a lock-step interval for recording coordinates, thereby regularizing round and resulting in a more accurate distance (and time...speed...etc) metric.
 - Parse the gpx files; calculate certain measures I will need
 - Merge the files from the two different sources into a single dataframe and .csv
 - Export to Tableau and conduct further exploration and visualizations 
@@ -21,6 +23,7 @@
 ## Missing Values
 
 ## Initial Questions?
+- Is there a logical explanation for why I have always had the impression that NRC records distance more accurately than Strava?
 - Are there any unusual speeds or location information? Anomalies
 - What's my average distance? Speed? Time? Rides versus runs?
 - The usual time of day I record activities
