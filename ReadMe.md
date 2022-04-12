@@ -1,6 +1,6 @@
 # MY GPS ACTIVITIES PROJECT
 
-### This readme and github contain information on my Strava and Nike Run Club gps-tracked activities; mostly, this repo is relatively  minor data prep and minimal exploration to prepare data for a thorough Tableau project.
+### This readme and github contain information on my Strava and Nike Run Club gps-tracked activities
 
 ## Project Description
 - Are you an avid runner or cyclist? Or both? Ever wondered what the accumulation of all your activities looks like when analyzed or mapped together? 
